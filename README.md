@@ -2,7 +2,7 @@
 
 **Free property intelligence for every address in the Netherlands** — [woningsearch.nl](https://woningsearch.nl/)
 
-WoningSearch turns Dutch open government data (BAG, CBS, RVO, Kadaster) into a complete, readable profile for any of the ~9.7 million addresses in the Netherlands, plus the Dutch Caribbean islands of Bonaire, Saba, and Sint Eustatius. Free, no account needed, available in 13 languages.
+WoningSearch turns Dutch open government data into a complete, readable profile for any of the ~9.7 million addresses in the Netherlands, plus the Dutch Caribbean islands of Bonaire, Saba, and Sint Eustatius. Free, no account needed, available in 13 languages.
 
 ## What you get for any address
 
@@ -24,6 +24,6 @@ WoningSearch turns Dutch open government data (BAG, CBS, RVO, Kadaster) into a c
 
 ## This repo
 
-Hosts the [GitHub Pages site](https://woningsearch.github.io/) for WoningSearch. The platform itself is built with Python 3.13, FastAPI, PostgreSQL + PostGIS, and server-rendered Jinja2 — no JS framework, optimized for speed and SEO.
+Hosts the [GitHub Pages site](https://woningsearch.github.io/) for WoningSearch. The platform itself is built with Python.
 
-© 2026 WoningSearch · Built on open data from BAG/PDOK, CBS, RVO, and Kadaster.
+© 2026 WoningSearch ·
